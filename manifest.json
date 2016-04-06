@@ -7,7 +7,6 @@
       "newtab": "newtab.html"
   },
 
-  "default_locale": "en",
   "background": {
     "page": "/view/index.html",
     "persistent": true
