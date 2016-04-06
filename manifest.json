@@ -1,0 +1,15 @@
+{
+  "name": "New Tab",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Clean new tab page",
+  "chrome_url_overrides" : {
+      "newtab": "newtab.html"
+  },
+
+  "default_locale": "en",
+  "background": {
+    "page": "/view/index.html",
+    "persistent": true
+  }
+}
